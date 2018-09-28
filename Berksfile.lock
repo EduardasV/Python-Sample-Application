@@ -1,0 +1,11 @@
+DEPENDENCIES
+  nginx
+    git: git@github.com:EduardasV/SpartaGlobal-ChefNginxCookbook.git
+    revision: 24d92e15abf424e2e7b8b447c406808a1aee6b7b
+  python
+    git: git@github.com:EduardasV/SpartaGlobal-ChefPythonCookbook.git
+    revision: 90b2809a601bf1f9a2e348d66fb91a2f869a99d5
+
+GRAPH
+  nginx (0.1.0)
+  python (0.1.0)
