@@ -1,4 +1,4 @@
-PR
+Pull request
 
 Example Uber app for developers
 ==============================
